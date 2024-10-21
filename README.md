@@ -3,8 +3,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently studying at Universiti Teknologi Malaysia, Malaysia
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me via Instagram @tuan_hasiff
-- 😄 Pronouns: ...
+- 📫 How to reach me via 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 @tuan_hasiff
 - ⚡ Fun fact: love to learn new thing
 
 <!---
