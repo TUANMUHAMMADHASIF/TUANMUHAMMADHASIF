@@ -1,10 +1,11 @@
-- 👋 Hi, I’m #Tuan MUhammad Hasif bin Tuan Zaki#
+# About Me
+- 👋 Hi, I’m Tuan Muhammad Hasif bin Tuan Zaki
 - 👀 I’m interested in ...
-- 🌱 I’m currently studying at Universiti Teknologi Malaysia
+- 🌱 I’m currently studying at Universiti Teknologi Malaysia, Malaysia
 - 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 📫 How to reach me via Instagram @tuan_hasiff
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact: love to learn new thing
 
 <!---
 TUANMUHAMMADHASIF/TUANMUHAMMADHASIF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
