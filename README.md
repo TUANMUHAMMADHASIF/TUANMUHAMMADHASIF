@@ -1,12 +1,14 @@
-# About Me
-- 👋 Hi, I’m Tuan Muhammad Hasif bin Tuan Zaki
-- 👀 I’m interested in ...
-- 🌱 I’m currently studying at Universiti Teknologi Malaysia, Malaysia
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me via 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 @tuan_hasiff
-- ⚡ Fun fact: love to learn new thing
+<h1 align="center">Hi 👋, I'm Tuan Muhammad Hasif bin Tuan Zaki</h1>
+- 🔭 I’m currently studying **at Universiti Teknologi Malaysia,Malaysia**
 
-<!---
-TUANMUHAMMADHASIF/TUANMUHAMMADHASIF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently **Software Engineering student**
+
+- ⚡ Fun fact **love to learn new thing**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/tuan_hasiff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuan_hasiff" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
