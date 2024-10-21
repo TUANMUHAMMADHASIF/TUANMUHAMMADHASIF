@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tuan Muhammad Hasif bin Tuan Zaki</h1>
-- 🔭 I’m currently studying **at Universiti Teknologi Malaysia,Malaysia**
+<h1 align="center">Hello Hye What's upppp</h1>
 
-- 🌱 I’m currently **Software Engineering student**
+ - 👋 I'm Tuan Muhammad Hasif bin Tuan Zaki. I am from Terengganu 🐢, Malaysia.
 
-- ⚡ Fun fact **love to learn new thing**
+- 🔭 I’m currently studying at **Universiti Teknologi Malaysia** 🏛️
+  
+- 🌱 I’m currently **Software Engineering student** 💻
+
+- 🤩 I'd like to take picture of scenery, sunrise sunset.
+  
+- ⚡ Fun fact **love to learn new thing** ✨🌱
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
